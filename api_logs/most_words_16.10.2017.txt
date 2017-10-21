@@ -1,0 +1,1 @@
+{"IP:":"127.0.0.1","Date:":"October 16, 2017, 6:03 am","Input Parameters":{"sentence":"Mir geht\u2019s gut","output_language":"EN","max_characters":10},"Response Parameters":{"original_sentence":"Mir geht\u2019s gut","final_string":"I'm good","final_string_translated":"Mir geht's gut","duration_ms":1.1427948474884033}}
