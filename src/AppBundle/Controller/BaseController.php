@@ -16,7 +16,7 @@ class BaseController extends Controller
         throw new NotFoundHttpException($message);
     }
 
-    protected function throw400($message = 'Invalid JSONsdfsdfsdf body')
+    protected function throw400($message = 'Invalid JSON body')
     {
         throw new HttpException(400, $message);
     }
