@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/nexusrestapi.iml" filepath="$PROJECT_DIR$/.idea/nexusrestapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test_api_glympe.iml" filepath="$PROJECT_DIR$/.idea/test_api_glympe.iml" />
     </modules>
   </component>
 </project>
